@@ -1,4 +1,4 @@
-# 📈 Chapter 1: SQL — Stock Price vs Fundamentals 📈
+# 📈 Stock Price vs Fundamentals 📈
 
 ## 👋 Welcome  
 This is my **SQL analysis** project where hype gets stripped away and only numbers get to talk.
@@ -54,11 +54,10 @@ Key variables analyzed:
 - Compute CAGR for stock and each fundamental  
 - Compare distances  
 
+<img src="Plots/CAGR_vs_companies.png" alt="CAGR Comparison Across Companies" width="75%"/>
+
 **Result:**  
 > **FCF is the anchor metric explaining Amazon’s long-term stock trajectory.**
-
-📉 *CAGR Comparison Across Metrics*  
-<img src="./CAGR_vs_companies.png" alt="CAGR Comparison Across Companies" width="75%"/>
 
 ---
 
