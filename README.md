@@ -1,7 +1,7 @@
 # 📈 Chapter 1: SQL — Stock Price vs Fundamentals 📈
 
 ## 👋 Welcome  
-Welcome to Chapter 1. This is the **SQL analysis engine** of the project—where hype gets stripped away and only numbers get to talk.
+This is my **SQL analysis** project where hype gets stripped away and only numbers get to talk.
 
 ---
 
@@ -29,11 +29,11 @@ By calculating **CAGR**, building **indexed growth series**, and comparing compa
 
 ## 📊 Data Overview  
 
-Tables used include:
-- `amzn_data`
-- `cost_data`
-- `ma_data`
-- `aapl_data`
+Companies include:
+- `Amazon - AMZN`
+- `Costco - COST`
+- `Mastercard - MA`
+- `Apple - AAPL`
 
 Key variables analyzed:
 - **Stock Price**
